@@ -1,2 +1,2 @@
-# 8.2.Temperature-converter
-Temperature converter without any function. Vanilla JS, HtML, SCSS
+# 8.3.Temperature-converter-function
+Temperature-converter as a function
